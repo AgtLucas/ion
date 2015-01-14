@@ -1,4 +1,0 @@
-ion
-===
-
-Playing with Ionic
